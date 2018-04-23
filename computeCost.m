@@ -1,6 +1,6 @@
 function J = computeCost(X, y, theta)
 
-m = length(y); % number of training examples
+m = length(y); 
 
 
 J = 0;
